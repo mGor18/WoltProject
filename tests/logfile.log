@@ -1,0 +1,322 @@
+2021-09-14 14:12:17,511 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-14 17:00:10,937 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-14 17:48:20,502 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-14 19:12:35,750 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-14 19:15:33,848 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 00:34:33,513 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 11:24:31,199 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 11:24:31,309 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-15 11:45:24,230 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 11:45:24,295 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-15 21:37:11,412 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 21:37:11,558 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-15 22:05:04,547 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 22:05:04,778 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-15 22:08:09,482 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 22:08:09,636 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-15 22:18:58,622 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 22:18:58,776 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-15 22:31:58,492 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 22:31:58,647 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-15 22:36:30,066 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 22:36:30,231 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-15 23:18:26,589 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 23:18:26,711 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-15 23:30:05,061 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 23:30:05,335 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-15 23:31:20,917 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 23:31:21,220 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-15 23:36:36,114 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 23:36:36,359 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-15 23:43:59,684 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-15 23:43:59,932 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-20 14:27:11,270 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-20 14:27:11,339 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-20 14:28:15,229 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-09-20 14:28:15,299 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-09-20 14:30:27,235 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 15:36:33,984 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 15:36:34,042 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 15:36:34,083 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 15:36:35,689 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 15:38:15,721 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 15:38:15,771 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 15:38:15,815 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 15:38:17,907 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 15:41:07,109 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 15:41:07,161 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 15:41:07,206 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 15:41:09,334 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 15:41:11,426 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 16:17:31,845 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:17:31,902 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:17:31,949 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:17:33,499 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:17:35,083 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 16:18:18,831 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:18:18,893 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:18:18,953 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:18:20,499 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:18:21,654 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 16:25:10,902 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:25:10,953 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:25:11,002 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:25:13,115 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:25:57,804 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:25:57,857 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:25:57,924 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:26:00,017 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:26:01,779 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 16:26:28,984 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:26:29,033 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:26:29,075 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:26:30,635 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:26:32,222 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 16:27:36,403 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:27:36,467 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:27:36,512 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:27:38,043 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:27:39,215 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 16:28:09,281 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:28:09,342 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:28:09,399 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:28:12,725 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:28:14,020 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 16:28:59,701 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:28:59,769 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:28:59,832 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:29:01,360 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:29:03,197 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 16:31:41,289 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:31:41,350 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:31:41,396 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:31:42,891 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:31:44,602 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 16:35:05,879 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:35:05,937 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:35:05,986 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:35:07,472 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:35:08,873 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 16:35:43,411 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:35:43,469 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:35:43,517 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:35:45,636 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:35:47,357 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 16:36:30,348 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:36:30,417 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:36:30,464 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:36:31,975 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:36:33,905 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 16:46:19,455 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:46:19,510 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:46:19,560 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:46:22,240 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:46:23,485 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 16:51:52,931 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:51:52,997 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:51:53,064 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:51:57,028 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:55:51,635 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 16:55:51,771 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 16:55:51,865 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 16:55:55,019 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 16:55:56,540 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 17:56:03,399 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 17:56:03,465 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 17:56:03,524 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 17:56:06,921 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 17:56:08,236 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 17:56:36,447 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 17:56:36,503 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 17:56:36,551 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 17:56:38,647 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 17:56:39,977 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 17:57:13,539 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 17:57:13,600 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 17:57:13,656 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 17:57:17,432 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 17:57:18,980 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 18:01:33,440 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 18:01:33,497 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 18:01:33,552 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 18:01:35,680 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 18:01:36,983 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 18:02:40,963 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 18:02:41,018 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 18:02:41,093 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 18:02:42,545 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 18:02:44,492 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-11 18:15:28,998 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-11 18:15:29,057 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-11 18:15:29,115 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-11 18:15:31,210 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-11 18:15:33,176 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-12 10:06:15,985 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-12 10:06:16,055 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-12 10:06:16,108 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-12 10:06:20,531 :INFO : test_wolt_order : Selecting item 'adama mishpachtit' and adding to order
+2021-10-12 10:06:21,951 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-12 10:33:56,987 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-12 10:33:57,096 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-12 10:33:57,151 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-12 10:34:00,301 :INFO : test_wolt_order : Selecting item 'adama mishpachtit
+2021-10-12 10:34:01,741 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-12 10:34:01,838 :INFO : test_wolt_order : Adding adama mishpachtit to order
+2021-10-12 10:34:02,013 :INFO : test_wolt_order : Selecting item 'malabi
+2021-10-12 10:47:03,429 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-12 10:47:03,492 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-12 10:47:03,555 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-12 10:47:06,859 :INFO : test_wolt_order : Selecting item 'adama mishpachtit
+2021-10-12 10:47:08,095 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-12 10:47:08,189 :INFO : test_wolt_order : Adding adama mishpachtit to order
+2021-10-12 10:47:08,342 :INFO : test_wolt_order : Selecting item 'malabi
+2021-10-12 10:50:36,426 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-12 10:50:36,480 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-12 10:50:36,536 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-12 10:50:40,023 :INFO : test_wolt_order : Selecting item 'adama mishpachtit
+2021-10-12 10:50:41,255 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-12 10:50:41,350 :INFO : test_wolt_order : Adding adama mishpachtit to order
+2021-10-12 10:50:41,504 :INFO : test_wolt_order : Selecting item 'malabi
+2021-10-12 12:54:20,764 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-12 12:54:20,820 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-12 12:54:20,864 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-12 12:54:22,997 :INFO : test_wolt_order : Selecting item 'malabi
+2021-10-12 12:54:24,724 :INFO : test_wolt_order : Adding price to running totals list
+2021-10-12 12:54:24,801 :INFO : test_wolt_order : Adding 'malabi' to order
+2021-10-12 13:00:47,646 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-12 13:00:47,699 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-12 13:00:47,742 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-12 13:00:49,233 :INFO : test_wolt_order : Selecting item 'adama mishpachtit
+2021-10-12 13:00:50,802 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-12 13:00:50,898 :INFO : test_wolt_order : Adding adama mishpachtit to order
+2021-10-12 13:00:51,032 :INFO : test_wolt_order : Selecting item 'malabi
+2021-10-12 22:33:49,154 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-12 22:33:49,216 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-12 22:33:49,265 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-12 22:33:51,357 :INFO : test_wolt_order : Selecting item 'adama mishpachtit
+2021-10-12 22:33:52,607 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-12 22:33:52,703 :INFO : test_wolt_order : Adding adama mishpachtit to order
+2021-10-12 22:33:52,865 :INFO : test_wolt_order : Selecting item 'malabi
+2021-10-12 22:33:53,575 :INFO : test_wolt_order : Adding price to running totals list
+2021-10-12 22:33:53,630 :INFO : test_wolt_order : Adding 'malabi' to order
+2021-10-13 01:27:28,505 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-13 01:27:28,573 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-13 01:27:28,622 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-13 01:27:31,359 :INFO : test_wolt_order : Selecting item 'adama mishpachtit
+2021-10-13 01:27:32,725 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-13 01:27:32,810 :INFO : test_wolt_order : Adding adama mishpachtit to order
+2021-10-13 01:27:32,971 :INFO : test_wolt_order : Selecting item 'malabi
+2021-10-13 01:27:33,670 :INFO : test_wolt_order : Adding price to running totals list
+2021-10-13 01:27:33,728 :INFO : test_wolt_order : Adding 'malabi' to order
+2021-10-13 01:33:57,435 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-13 01:33:57,492 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-13 01:33:57,542 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-13 01:34:01,093 :INFO : test_wolt_order : Selecting item 'adama mishpachtit
+2021-10-13 01:34:02,394 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-13 01:34:02,517 :INFO : test_wolt_order : Adding adama mishpachtit to order
+2021-10-13 01:34:02,686 :INFO : test_wolt_order : Selecting item 'malabi
+2021-10-13 01:34:03,446 :INFO : test_wolt_order : Adding price to running totals list
+2021-10-13 01:34:03,503 :INFO : test_wolt_order : Adding 'malabi' to order
+2021-10-13 01:34:03,624 :INFO : test_wolt_order : Selecting item 'arancini'
+2021-10-13 01:36:47,807 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-13 01:36:47,871 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-13 01:36:47,937 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-13 01:36:50,806 :INFO : test_wolt_order : Selecting item 'adama mishpachtit
+2021-10-13 01:36:52,045 :INFO : test_wolt_order : Adding price to running price totals list
+2021-10-13 01:36:52,139 :INFO : test_wolt_order : Adding adama mishpachtit to order
+2021-10-13 01:36:52,305 :INFO : test_wolt_order : Selecting item 'malabi
+2021-10-13 01:36:53,008 :INFO : test_wolt_order : Adding price to running totals list
+2021-10-13 01:36:53,089 :INFO : test_wolt_order : Adding 'malabi' to order
+2021-10-13 01:36:53,188 :INFO : test_wolt_order : Selecting item 'arancini'
+2021-10-13 01:36:53,919 :INFO : test_wolt_order : Adding price to running totals list
+2021-10-13 01:36:53,971 :INFO : test_wolt_order : Adding 'arancini' to order
+2021-10-13 18:11:46,800 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-13 18:11:46,853 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-13 18:11:46,895 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-14 09:42:30,874 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-14 09:42:30,941 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-14 09:42:31,000 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-14 09:44:10,600 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-14 09:44:10,658 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-14 09:44:10,715 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-14 09:44:31,270 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-14 09:44:31,330 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-14 09:44:31,391 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-14 09:45:41,317 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-14 09:45:41,369 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-14 09:45:41,412 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-14 09:46:36,770 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-14 09:46:36,839 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-14 09:46:36,895 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-14 14:23:02,417 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-14 14:23:02,470 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-14 14:23:02,515 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-14 14:34:47,759 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-14 14:34:47,815 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-14 14:34:47,864 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 16:16:52,002 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-17 16:16:52,199 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-17 16:16:52,372 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 16:17:01,433 :INFO : test_wolt_order : Selecting item 'adama_mishpachtit' and adding to order
+2021-10-17 16:17:02,795 :INFO : test_wolt_order : Selecting item 'malabi' and adding to order
+2021-10-17 16:17:04,249 :INFO : test_wolt_order : Selecting item 'arancini' and adding to order
+2021-10-17 17:51:07,397 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-17 17:51:07,459 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-17 17:51:07,515 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 17:51:12,970 :INFO : test_wolt_order : Selecting item 'adama_mishpachtit' and adding to order
+2021-10-17 17:51:13,986 :INFO : test_wolt_order : Selecting item 'malabi' and adding to order
+2021-10-17 17:53:03,238 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-17 17:53:03,303 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-17 17:53:03,359 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 17:53:08,279 :INFO : test_wolt_order : Selecting item 'adama_mishpachtit' and adding to order
+2021-10-17 17:53:09,325 :INFO : test_wolt_order : Selecting item 'malabi' and adding to order
+2021-10-17 18:15:32,697 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-17 18:15:32,758 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-17 18:15:32,829 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 18:15:35,983 :INFO : test_wolt_order : Selecting item 'adama_mishpachtit' and adding to order
+2021-10-17 18:15:36,951 :INFO : test_wolt_order : Selecting item 'malabi' and adding to order
+2021-10-17 18:16:12,733 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-17 18:16:12,806 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-17 18:16:12,857 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 18:16:18,567 :INFO : test_wolt_order : Selecting item 'adama_mishpachtit' and adding to order
+2021-10-17 18:16:19,535 :INFO : test_wolt_order : Selecting item 'malabi' and adding to order
+2021-10-17 18:19:21,838 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-17 18:19:21,907 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-17 18:19:21,967 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 18:19:27,897 :INFO : test_wolt_order : Selecting item 'adama_mishpachtit' and adding to order
+2021-10-17 18:19:28,908 :INFO : test_wolt_order : Selecting item 'malabi' and adding to order
+2021-10-17 18:22:16,354 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-17 18:22:16,415 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-17 18:22:16,480 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 18:22:19,864 :INFO : test_wolt_order : Selecting item 'adama_mishpachtit' and adding to order
+2021-10-17 18:22:20,810 :INFO : test_wolt_order : Selecting item 'malabi' and adding to order
+2021-10-17 18:22:37,493 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-17 18:22:37,559 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-17 18:22:37,629 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 18:22:41,106 :INFO : test_wolt_order : Selecting item 'adama_mishpachtit' and adding to order
+2021-10-17 18:22:42,079 :INFO : test_wolt_order : Selecting item 'malabi' and adding to order
+2021-10-17 18:23:59,819 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-17 18:23:59,939 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-17 18:23:59,982 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 18:24:04,437 :INFO : test_wolt_order : Selecting item 'adama_mishpachtit' and adding to order
+2021-10-17 18:24:05,430 :INFO : test_wolt_order : Selecting item 'malabi' and adding to order
+2021-10-17 18:24:55,677 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-17 18:24:55,737 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-17 18:24:55,788 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 18:25:01,714 :INFO : test_wolt_order : Selecting item 'adama_mishpachtit' and adding to order
+2021-10-17 18:25:02,686 :INFO : test_wolt_order : Selecting item 'malabi' and adding to order
+2021-10-17 18:28:27,227 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-17 18:28:27,332 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-17 18:28:27,383 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 18:28:32,506 :INFO : test_wolt_order : Selecting item 'adama_mishpachtit' and adding to order
+2021-10-17 18:28:33,518 :INFO : test_wolt_order : Selecting item 'malabi' and adding to order
+2021-10-17 18:28:57,691 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-17 18:28:57,757 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-17 18:28:57,812 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 18:29:00,926 :INFO : test_wolt_order : Selecting item 'adama_mishpachtit' and adding to order
+2021-10-17 18:29:01,831 :INFO : test_wolt_order : Selecting item 'malabi' and adding to order
+2021-10-17 23:08:43,561 :INFO : test_wolt_order : Clicking searchbar on homepage
+2021-10-17 23:08:43,620 :INFO : test_wolt_order : Adding search query and accessing restaurant page
+2021-10-17 23:08:43,670 :INFO : test_wolt_order : Selecting restaurant - Papi Chulo by clicking from dropdown
+2021-10-17 23:08:48,656 :INFO : test_wolt_order : Selecting item 'adama_mishpachtit' and adding to order
+2021-10-17 23:08:49,521 :INFO : test_wolt_order : Selecting item 'malabi' and adding to order
